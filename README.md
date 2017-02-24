@@ -1,2 +1,1 @@
-# ReactReduxRouter-Blog
-React Redux Blog App using React Router
+#### Starter File for React Redux Apps
